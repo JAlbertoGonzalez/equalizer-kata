@@ -8,6 +8,7 @@ body {
   @apply font-ibm;
   background-color: #f2f2f2;
   @apply md:bg-[url('../public/images/header-logo.svg')] bg-no-repeat bg-right-top;
+  background-size: 200px;
 }
 
 .abstract-background {
@@ -16,7 +17,7 @@ body {
   height: 500px;
   width: 100%;
   z-index: -1;
-  border: solid 1px red;
+  height: 100vh;
 }
 
 h1 {

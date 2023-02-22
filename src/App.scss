@@ -1,3 +1,19 @@
 body {
   margin: 0px;
 }
+
+.hero {
+  h1 {
+    font-weight: 700;
+    font-size: 88px;
+    line-height: 88px;
+    letter-spacing: -1px;
+  }
+
+  p {
+    margin-top: 40px;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 34px;
+  }
+}
