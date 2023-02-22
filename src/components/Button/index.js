@@ -1,18 +1,21 @@
 import cx from 'classnames'
 import './button.scss'
 
-const AppleLogo = <img src="/images/apple-logo.svg" />
-const AndroidLogo = <img src="/images/android-logo.svg" />
+import AppleLogo from '../../assets/images/apple-logo.svg'
+import AndroidLogo from '../../assets/images/android-logo.svg'
+
+const AppleIcon = <img src={AppleLogo} />
+const AndroidIcon = <img src={AndroidLogo} />
 
 export default function Button({ children, className, icon }) {
   let logo = <></>
 
   if (icon === 'android') {
-    logo = AndroidLogo
+    logo = AndroidIcon
   }
 
   if (icon === 'apple') {
-    logo = AppleLogo
+    logo = AppleIcon
   }
   return <button className={cx('button', className, 'flex items-center justify-center')}><>{logo}&nbsp;{children}</></button>
 }

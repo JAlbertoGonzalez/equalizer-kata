@@ -7,12 +7,12 @@
 body {
   @apply font-ibm;
   background-color: #f2f2f2;
-  @apply md:bg-[url('../public/images/header-logo.svg')] bg-no-repeat bg-right-top;
+  @apply md:bg-[url('./assets/images/header-logo.svg')] bg-no-repeat bg-right-top;
   background-size: 200px;
 }
 
 .abstract-background {
-  @apply bg-[url('../public/images/abstract-background.svg')] bg-top bg-cover;
+  @apply bg-[url('./assets/images/abstract-background.svg')] bg-top bg-cover;
   position: absolute;
   height: 500px;
   width: 100%;
