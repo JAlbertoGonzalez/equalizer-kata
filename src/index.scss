@@ -3,3 +3,19 @@
 @tailwind base
 @tailwind components;
 @tailwind utilities;
+
+body {
+  @apply font-ibm;
+  background-color: #f2f2f2;
+  @apply bg-[url('../public/images/header-logo.svg')] bg-no-repeat bg-right-top;
+}
+
+h1 {
+  font-size: 88px;
+  font-weight: 700;
+}
+
+h2 {
+  font-size: 40px;
+  font-weight: 700;
+}
