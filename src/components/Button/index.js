@@ -17,5 +17,6 @@ export default function Button({ children, className, icon }) {
   if (icon === 'apple') {
     logo = AppleIcon
   }
+
   return <button className={cx('button', className, 'flex items-center justify-center')}><>{logo}&nbsp;{children}</></button>
 }
