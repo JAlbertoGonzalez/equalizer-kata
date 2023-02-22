@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/equalizer-kata/static/css/main.2bc409ba.css",
-    "main.js": "/equalizer-kata/static/js/main.885d1885.js",
+    "main.css": "/equalizer-kata/static/css/main.875982d7.css",
+    "main.js": "/equalizer-kata/static/js/main.4a7b80d0.js",
     "static/js/787.3d03f082.chunk.js": "/equalizer-kata/static/js/787.3d03f082.chunk.js",
     "static/media/ibm-plex-sans-all-400-normal.woff": "/equalizer-kata/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
     "static/media/mobile-example.svg": "/equalizer-kata/static/media/mobile-example.6a5a6c785eda2a1c0073c4c884d86bd7.svg",
@@ -21,12 +21,12 @@
     "index.html": "/equalizer-kata/index.html",
     "static/media/background-logo.svg": "/equalizer-kata/static/media/background-logo.9d65a6de9a5f19940840d6d2ae10d0f8.svg",
     "static/media/facebook.svg": "/equalizer-kata/static/media/facebook.a5a099280e26398d12a4a4339cbdf5c6.svg",
-    "main.2bc409ba.css.map": "/equalizer-kata/static/css/main.2bc409ba.css.map",
-    "main.885d1885.js.map": "/equalizer-kata/static/js/main.885d1885.js.map",
+    "main.875982d7.css.map": "/equalizer-kata/static/css/main.875982d7.css.map",
+    "main.4a7b80d0.js.map": "/equalizer-kata/static/js/main.4a7b80d0.js.map",
     "787.3d03f082.chunk.js.map": "/equalizer-kata/static/js/787.3d03f082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2bc409ba.css",
-    "static/js/main.885d1885.js"
+    "static/css/main.875982d7.css",
+    "static/js/main.4a7b80d0.js"
   ]
 }
