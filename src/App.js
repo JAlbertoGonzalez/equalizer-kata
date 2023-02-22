@@ -8,7 +8,7 @@ function App() {
       <div className="abstract-background"></div>
       <main className="container md:mx-16">
         <header class="">
-          <div><img src="/images/logo.svg" /></div>
+          <div><img src="images/logo.svg" /></div>
         </header>
         <section>
           <h1>We make your music sound extraordinary.</h1>
@@ -16,12 +16,12 @@ function App() {
         </section>
         <section className="relative my-32">
           <div className="bg-eerie-black rounded-lg flex content-center absolute w-full my-32 z-[-1]">
-            <img src="/images/background-logo.svg" className="mx-auto" />
+            <img src="images/background-logo.svg" className="mx-auto" />
           </div>
 
           <div>
             <div className="md:absolute t-0 left-[10%] w-full xs:border-solid sm:text-center md:text-left">
-              <img src="/images/mobile-example.svg" />
+              <img src="images/mobile-example.svg" />
             </div>
 
             <Card className="bg-outrageous-orange text-snow max-w-[446px] md:absolute right-[10%] top-[300px] sm:mx-auto">
@@ -39,7 +39,7 @@ function App() {
         </section>
 
         <footer className="flex relative">
-          <div><img src="/images/logo.svg" /></div>
+          <div><img src="images/logo.svg" /></div>
           <div>All rights reserved © Equalizer 2021 Have any problems? Contact us via social media or email us at <strong>equalizer@example.com</strong></div>
           <div>Social</div>
         </footer>
