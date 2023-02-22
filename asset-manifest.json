@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f1ab165.css",
+    "main.css": "/static/css/main.0a4d870f.css",
     "main.js": "/static/js/main.7aa70212.js",
     "static/js/787.3d03f082.chunk.js": "/static/js/787.3d03f082.chunk.js",
     "static/media/ibm-plex-sans-all-400-normal.woff": "/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
@@ -13,12 +13,12 @@
     "static/media/abstract-background.svg": "/static/media/abstract-background.a3d56443589135bbd212.svg",
     "static/media/header-logo.svg": "/static/media/header-logo.fd7ee7819850efc32376.svg",
     "index.html": "/index.html",
-    "main.0f1ab165.css.map": "/static/css/main.0f1ab165.css.map",
+    "main.0a4d870f.css.map": "/static/css/main.0a4d870f.css.map",
     "main.7aa70212.js.map": "/static/js/main.7aa70212.js.map",
     "787.3d03f082.chunk.js.map": "/static/js/787.3d03f082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f1ab165.css",
+    "static/css/main.0a4d870f.css",
     "static/js/main.7aa70212.js"
   ]
 }
