@@ -26,9 +26,11 @@ function App() {
               <p className="text-[65px]">$4<span className="text-[20px]">/month</span></p>
 
               <Button
+                icon={'apple'}
                 className="bg-eerie-black text-snow w-full">iOS Download</Button>
               <div className="h-[16px]"></div>
               <Button
+                icon={'android'}
                 className="bg-snow text-eerie-black w-full">Android Download</Button>
             </Card>
 
