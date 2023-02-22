@@ -1,24 +1,32 @@
 {
   "files": {
-    "main.css": "/equalizer-kata/static/css/main.8e967b81.css",
-    "main.js": "/equalizer-kata/static/js/main.f1f16b21.js",
+    "main.css": "/equalizer-kata/static/css/main.2bc409ba.css",
+    "main.js": "/equalizer-kata/static/js/main.885d1885.js",
     "static/js/787.3d03f082.chunk.js": "/equalizer-kata/static/js/787.3d03f082.chunk.js",
     "static/media/ibm-plex-sans-all-400-normal.woff": "/equalizer-kata/static/media/ibm-plex-sans-all-400-normal.ac37447d88dc924364ce.woff",
+    "static/media/mobile-example.svg": "/equalizer-kata/static/media/mobile-example.6a5a6c785eda2a1c0073c4c884d86bd7.svg",
     "static/media/ibm-plex-sans-latin-400-normal.woff2": "/equalizer-kata/static/media/ibm-plex-sans-latin-400-normal.4d32b6c22a800bdf8260.woff2",
     "static/media/ibm-plex-sans-latin-ext-400-normal.woff2": "/equalizer-kata/static/media/ibm-plex-sans-latin-ext-400-normal.77bcbc5ecc8f4f2bbe06.woff2",
     "static/media/ibm-plex-sans-cyrillic-400-normal.woff2": "/equalizer-kata/static/media/ibm-plex-sans-cyrillic-400-normal.2f77d85fb008b53d005a.woff2",
+    "static/media/logo.svg": "/equalizer-kata/static/media/logo.ab4d0dfb3b2ae9de5e5b7d55d11f80d6.svg",
     "static/media/ibm-plex-sans-greek-400-normal.woff2": "/equalizer-kata/static/media/ibm-plex-sans-greek-400-normal.3a057227a4ac726b71f5.woff2",
     "static/media/ibm-plex-sans-cyrillic-ext-400-normal.woff2": "/equalizer-kata/static/media/ibm-plex-sans-cyrillic-ext-400-normal.56b6c5df575156819cfa.woff2",
     "static/media/ibm-plex-sans-vietnamese-400-normal.woff2": "/equalizer-kata/static/media/ibm-plex-sans-vietnamese-400-normal.2e4166a1b8ecf1ee5e45.woff2",
+    "static/media/android-logo.svg": "/equalizer-kata/static/media/android-logo.03088c9494e5b7574ee90bde52d77314.svg",
     "static/media/abstract-background.svg": "/equalizer-kata/static/media/abstract-background.a3d56443589135bbd212.svg",
+    "static/media/instagram.svg": "/equalizer-kata/static/media/instagram.7ed6586ab0c90552ee17ff4eb19c057e.svg",
+    "static/media/apple-logo.svg": "/equalizer-kata/static/media/apple-logo.5844674c2958f146f78e40fb465cd35a.svg",
+    "static/media/twitter.svg": "/equalizer-kata/static/media/twitter.aed1df34e231fae45efc0107f264fcb2.svg",
     "static/media/header-logo.svg": "/equalizer-kata/static/media/header-logo.fd7ee7819850efc32376.svg",
     "index.html": "/equalizer-kata/index.html",
-    "main.8e967b81.css.map": "/equalizer-kata/static/css/main.8e967b81.css.map",
-    "main.f1f16b21.js.map": "/equalizer-kata/static/js/main.f1f16b21.js.map",
+    "static/media/background-logo.svg": "/equalizer-kata/static/media/background-logo.9d65a6de9a5f19940840d6d2ae10d0f8.svg",
+    "static/media/facebook.svg": "/equalizer-kata/static/media/facebook.a5a099280e26398d12a4a4339cbdf5c6.svg",
+    "main.2bc409ba.css.map": "/equalizer-kata/static/css/main.2bc409ba.css.map",
+    "main.885d1885.js.map": "/equalizer-kata/static/js/main.885d1885.js.map",
     "787.3d03f082.chunk.js.map": "/equalizer-kata/static/js/787.3d03f082.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.8e967b81.css",
-    "static/js/main.f1f16b21.js"
+    "static/css/main.2bc409ba.css",
+    "static/js/main.885d1885.js"
   ]
 }
